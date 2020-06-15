@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(0,0,0);
+  color: rgb(0,0,0);
+}
+
+#hero1 {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../../assets/img/stretching-is-something-you-should-be-doing-every-royalty-free-image-1581593407.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: rgb(255,255,255);
+}
+
+.nav.navbar-nav.text-center.ml-auto {
+  text-transform: uppercase;
+}
+
+.navbar-light .navbar-toggler-icon {
+  color: white;
+}
+
+#ptop {
+}
+
+.btn.btn-primary.btn-block.border-dark.d-xl-flex.flex-fill.justify-content-xl-center.align-items-xl-center {
+  border: 3px solid black;
+  border-radius: 30px;
+}
+
